@@ -3,7 +3,7 @@
 ## for mouth detection download this:
 # https://github.com/peterbraden/node-opencv/blob/master/data/haarcascade_mcs_mouth.xml
 
-# Paths to Cascade Classifiers
+## Paths to Cascade Classifiers
 face_casc_path = "/Users/csstnns/anaconda3/lib/python3.7/site-packages/cv2/data/haarcascade_frontalface_default.xml"
 eye_casc_path = "/Users/csstnns/anaconda3/lib/python3.7/site-packages/cv2/data/haarcascade_eye.xml"
 nose_casc_path = "/Users/csstnns/anaconda3/lib/python3.7/site-packages/cv2/data/haarcascade_mcs_nose.xml"
