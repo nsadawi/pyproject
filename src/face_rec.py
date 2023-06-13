@@ -1,7 +1,7 @@
 ## for nose detection download this:
 #  https://github.com/opencv/opencv_contrib/blob/master/modules/face/data/cascades/haarcascade_mcs_nose.xml
 ## for mouth detection download this:
-# https://github.com/peterbraden/node-opencv/blob/master/data/haarcascade_mcs_mouth.xml
+#  https://github.com/peterbraden/node-opencv/blob/master/data/haarcascade_mcs_mouth.xml
 
 ## Paths to Cascade Classifiers
 face_casc_path = "/Users/csstnns/anaconda3/lib/python3.7/site-packages/cv2/data/haarcascade_frontalface_default.xml"
@@ -9,6 +9,7 @@ eye_casc_path = "/Users/csstnns/anaconda3/lib/python3.7/site-packages/cv2/data/h
 nose_casc_path = "/Users/csstnns/anaconda3/lib/python3.7/site-packages/cv2/data/haarcascade_mcs_nose.xml"
 
 #import required libraries
+## make sure you have these libraries installed
 from keras.models import load_model
 # import openCV
 import cv2
