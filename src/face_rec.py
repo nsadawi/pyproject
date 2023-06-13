@@ -10,6 +10,7 @@ nose_casc_path = "/Users/csstnns/anaconda3/lib/python3.7/site-packages/cv2/data/
 
 #import required libraries
 from keras.models import load_model
+# import openCV
 import cv2
 import sys
 import numpy as np
