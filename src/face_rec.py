@@ -106,3 +106,7 @@ while True:
 out.release()
 video_capture.release()
 cv2.destroyAllWindows()
+
+
+def new_func(var1):
+    print(var1)
