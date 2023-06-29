@@ -1,5 +1,5 @@
 
-# Here we are testing conflict reolution - pyproject
+# Here we are forking conflict reolution - pyproject
 
 Testing conflicts!
 
